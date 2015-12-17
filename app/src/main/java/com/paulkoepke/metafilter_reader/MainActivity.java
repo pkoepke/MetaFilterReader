@@ -2,6 +2,9 @@
 Version 0.0.1:
     Minimum viable product. Opens MeFi, JavaScript is enabled, allows login to persist after closing the app, back button works, opens MeFi links in the app and opens the browser to open all other links.
     Using https://developer.chrome.com/multidevice/webview/gettingstarted as a guide.
+Version 0.0.2:
+    Removed padding from main RelativeLayout so the WebView expands to fill the entire screen.
+    Added app icons.
 */
 
 package com.paulkoepke.metafilter_reader;

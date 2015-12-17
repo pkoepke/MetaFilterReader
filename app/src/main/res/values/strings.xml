@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">MetaFilter Reader</string>
     <string name="action_settings">Settings</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="open_current_page_in_browser">Open current page in browser</string>
 </resources>
